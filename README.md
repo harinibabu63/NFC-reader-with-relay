@@ -35,7 +35,7 @@ The power architecture uses a wide 10V to 24V input and generates the required 1
 
 ## Project Files
 
-- [Schematic Diagram](ADD-YOUR-SCHEMATIC-LINK-HERE)
+- [Schematic Diagram](https://github.com/harinibabu63/NFC-reader-with-relay/blob/main/NFC%20reader%20with%20relay%20schematic.png)
 - [PCB Layout](ADD-YOUR-PCB-LAYOUT-LINK-HERE)
 - [3D Board View](ADD-YOUR-3D-BOARD-LINK-HERE)
 - [Bill of Materials](ADD-YOUR-BOM-LINK-HERE)
