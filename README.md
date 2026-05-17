@@ -3,7 +3,7 @@
 This project is an ESP32-based NFC reader module designed to detect ISO 14443A-compatible NFC tags and control an external device using a relay. The system uses the TRF7970A NFC transceiver for short-range communication and an ESP32-PICO-D4 microcontroller for tag reading, relay control, and future wireless expansion. When a compatible NFC tag is placed near the antenna, the ESP32 reads the tag UID and toggles the relay. This design can be adapted for access control, door locks, motor control, automation systems, or IoT-based device switching.
 
 ## Key Features
-
+ 
 - ISO 14443A NFC tag detection
 - ESP32-PICO-D4 based control
 - TRF7970A NFC transceiver
